@@ -37,7 +37,7 @@ Built **[Sheet2DB](https://github.com/yousseftag/Sheet2DB-Internship)** — a da
 **[EventFlow](https://github.com/yousseftag/eventflow)** — Ticketing Backend *(Java, Spring Boot, PostgreSQL, Keycloak)*
 Secure RESTful backend for high-traffic ticket purchasing. Features RBAC via Keycloak and real-time QR code entry validation using the ZXing API.
 
-**[Careera](https://github.com/yousseftag/careera)** — AI Career Generator *(Python, FastAPI, Next.js, LLM)*
+**[Careera](https://github.com/appsbuildcommunity/careera)** — AI Career Generator *(Python, FastAPI, Next.js, LLM)*
 Career guidance platform that parses resumes and generates personalized learning paths using LLMs. Async backend with FastAPI for real-time roadmap generation.
 
 ---
@@ -45,7 +45,7 @@ Career guidance platform that parses resumes and generates personalized learning
 ### 🏛️ Leadership & Teaching
 
 - **[AppsClub](https://www.linkedin.com/company/appsclub-ensaa/) @ ENSA Agadir:** President (2025–2026) and former Technical Lead (2024–2025), leading one of the largest student IT communities in Agadir.
-- **Instructor:** Designed and taught a **[Java & OOP Bootcamp](https://github.com/yousseftag/java-bootcamp)** for students.
+- **Instructor:** Designed and taught a **Java & OOP Bootcamp** for students.
 - **Co-host:** **[LeetCode B'Darija](https://www.youtube.com/watch?v=08uCl_aN2Qc&list=PLFHsVPnV8I4bbSr2B6cpFZexS6IlHojWh)** — a weekly live stream solving algorithmic problems interactively.
 
 ---
