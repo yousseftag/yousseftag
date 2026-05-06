@@ -2,7 +2,7 @@
 
 **Software Engineering Student @ ENSA Agadir | Backend Developer | 2x National Finalist (MCPC/MNPC)**
 
-> Open to backend / DevOps internships (PFA)
+> Open to internships (PFA)
 
 ---
 
