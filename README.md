@@ -45,7 +45,7 @@ Career guidance platform that parses resumes and generates personalized learning
 ### 🏛️ Leadership & Teaching
 
 - **[AppsClub](https://www.linkedin.com/company/appsclub-ensaa/) @ ENSA Agadir:** President (2025–2026) and former Technical Lead (2024–2025), leading one of the largest student IT communities in Agadir.
-- **Instructor:** Designed and taught a **Java & OOP Bootcamp** for students.
+- **Instructor:** Designed and taught a **[Java & OOP Bootcamp](https://github.com/yousseftag/Java-Bootcamp)** for students.
 - **Co-host:** **[LeetCode B'Darija](https://www.youtube.com/watch?v=08uCl_aN2Qc&list=PLFHsVPnV8I4bbSr2B6cpFZexS6IlHojWh)** — a weekly live stream solving algorithmic problems interactively.
 
 ---
