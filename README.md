@@ -40,6 +40,9 @@ Secure RESTful backend for high-traffic ticket purchasing. Features RBAC via Key
 **[Careera](https://github.com/appsbuildcommunity/careera)** — AI Career Generator *(Python, FastAPI, Next.js, LLM)*
 Career guidance platform that parses resumes and generates personalized learning paths using LLMs. Async backend with FastAPI for real-time roadmap generation.
 
+**[Docker to Kubernetes Foundations](https://github.com/yousseftag/docker-to-k8s-foundations)** — Infrastructure Learning *(Spring Boot, Docker, Kubernetes, Nginx, MySQL)*
+Evolution of a Spring Boot application from Docker Compose to Kubernetes, demonstrating containerization, orchestration, and load balancing.
+
 ---
 
 ### 🏛️ Leadership & Teaching
