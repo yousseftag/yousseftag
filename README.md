@@ -1,6 +1,6 @@
 # Youssef Taguejgalet
 
-**Backend Developer (Java/Spring Boot) | DevOps | Software Engineering Student @ ENSA Agadir | 2x competitive programmer National Finalist (MCPC/MNPC)**
+**Backend Developer (Java/Spring Boot) | DevOps | Software Engineering Student @ ENSA Agadir | 2x competitive programmer National Finalist (MCPC 25, MNPC23)**
 
 > Seeking PFE Internship (starting Feb 2027)
 
